@@ -1,0 +1,236 @@
+{
+  "personal": {
+    "name": "Taps",
+    "full_name": "Tapiwa Musasa",
+    "roles": [
+      "Software Engineer",
+      "Full Stack Developer",
+      "Drupal contributor",
+      "Laravel, Vuejs, Drupal, AWS, Acquia, React",
+      "Soccer Lover"
+    ]
+  },
+  "githubUrl": "https://github.com/tapscola/profile",
+  "buy_me_coffee_url": "https://www.nufc.co.uk",
+  "socials": [
+    {
+      "name": "Github",
+      "icon": "github",
+      "link": "https://github.com/tapscola",
+      "color": "#333"
+    },
+    {
+      "name": "Stackoverflow",
+      "icon": "stack-overflow",
+      "link": "https://stackoverflow.com/users/5259041/taps-cola",
+      "color": "#f48024"
+    },
+    {
+      "name": "Medium",
+      "icon": "medium-m",
+      "link": "https://www.drupal.org/u/tapscolam",
+      "color": "#02b875"
+    },
+    {
+      "name": "Drupal-stackoverflow",
+      "icon": "goodreads-g",
+      "link": "http://drupal.stackexchange.com/users/34165/taps-cola",
+      "color": "#553b08"
+    },
+    {
+      "name": "Linkedin",
+      "icon": "linkedin-in",
+      "link": "https://www.linkedin.com/in/tapscola/",
+      "color": "#0077B5"
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor",
+      "major": "Software Engineering",
+      "name": "FPT University - Vietnam",
+      "start": "2010",
+      "end": "2015",
+      "description": []
+    },
+    {
+      "degree": "Exchange student",
+      "major": "",
+      "name": "Hochschule Furtwangen University - Germany",
+      "start": "Sep 2013",
+      "end": "Feb 2014",
+      "description": []
+    },
+    {
+      "degree": "",
+      "major": "Mathematics",
+      "name": "Hanoi University of Education, High school for gifted student",
+      "start": "2007",
+      "end": "2010",
+      "description": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "waach",
+      "date": "March 2017",
+      "code": "waach",
+      "thumbnail": "waach_thumb.png",
+      "image": "/assets/images/projects/waach.jpg"
+    },
+    {
+      "name": "VueJS Firebase Shopping Cart",
+      "date": "June 2014",
+      "code": "vuejs-shopping-cart",
+      "thumbnail": "mouse_miner_thumb.png",
+      "image": "/assets/images/projects/waach.jpg"
+    },
+    {
+      "name": "Maze City",
+      "date": "June 2014",
+      "code": "maze-city",
+      "thumbnail": "mouse_miner_thumb.png",
+      "image": "/assets/images/projects/waach.jpg"
+    },
+    {
+      "name": "Golden Mouse Miner",
+      "date": "June 2014",
+      "code": "golden-mouse-miner",
+      "thumbnail": "mouse_miner_thumb.png",
+      "image": "/assets/images/projects/waach.jpg"
+    }
+  ],
+  "works": [
+    {
+      "title": "Software Engineer",
+      "company": "ABEJA Inc. - Japan",
+      "start": "July 2017",
+      "end": "Present",
+      "description": [
+        "Build a Design System which is reusable in other projects",
+        "Design and build Micro Frontends system which makes outsourcing project easily",
+        "Develop and maintain company's service application, front-end development with VueJS, backend development using NodeJS (Serverless architecture), Ruby on Rails and Golang",
+        "Technology: VueJS, NodeJS, Ruby on Rails, Golang, Kubernetes, AWS, Google Cloud, CI/CD"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Golden Equator Consulting - Singapore",
+      "start": "Nov 2015",
+      "end": "Apr 2017",
+      "description": [
+        "Build a video system that serves more than 3000 users.",
+        "Design and implement Cassandra clusters for analytic query, reduce query time from 10 seconds to under 5 seconds and stable event if the number of records increases.",
+        "Technology: ReactJS, NodeJS, Django, PostgreSQL, Cassandra"
+      ]
+    },
+    {
+      "title": "PHP and Android Developer",
+      "company": "FPT Software - Vietnam",
+      "start": "Jan 2013",
+      "end": "Sep 2013",
+      "description": [
+        "Develop a Mail System for Japanese customer",
+        "Technology: PHP Zend 2 Framework, Oracle Database."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "date": "Oct 2019",
+      "granted": "Cloud Native Computing Foundation (CNCF) and The Linux Foundation",
+      "link": "https://www.youracclaim.com/badges/f161f0f5-2bba-48c2-ace9-052305f7107c/public_url",
+      "icon": "https://user-images.githubusercontent.com/5120965/66748122-61e4e380-eec1-11e9-8f28-12876f3f82cd.png",
+      "description": "Provide assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators."
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "date": "Oct 2019",
+      "granted": "Cloud Native Computing Foundation (CNCF) and The Linux Foundation",
+      "link": "https://www.dropbox.com/s/2creakpaos9rwdf/CKAD_Certificate.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/66748122-61e4e380-eec1-11e9-8f28-12876f3f82cd.png",
+      "description": "Ability to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes."
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "date": "Jan 2019",
+      "granted": "Scrum.org",
+      "link": "https://www.scrum.org/user/441236",
+      "icon": "https://user-images.githubusercontent.com/5120965/56880039-2cc11200-6a96-11e9-9ebf-32218a037228.png",
+      "description": "Fundamental knowledge of the Scrum framework and its application."
+    },
+    {
+      "name": "CompTIA Security+",
+      "date": "Feb 2018",
+      "granted": "CompTIA",
+      "link": "https://www.dropbox.com/s/rfkfwcnrxdpos4j/CompTIA%20Security%2B%20ce%20certificate.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56878314-668e1a80-6a8e-11e9-8b02-8185cec8123d.png",
+      "description": "As a benchmark for best practices in IT security, this certification covers the essential principles for network security and risk management."
+    },
+    {
+      "name": "Architecting Microsoft Azure Solutions",
+      "date": "July 2017",
+      "granted": "Microsoft",
+      "link": "https://www.youracclaim.com/badges/409e2244-907a-462a-bb67-bbe0c58cae92",
+      "icon": "https://user-images.githubusercontent.com/5120965/56879878-8a089380-6a95-11e9-9328-afd2e7a46448.png",
+      "description": "Demonstrates expertise in compute, network, storage, and security so that they can design solutions that run on Azure."
+    },
+    {
+      "name": "CompTIA Linux+",
+      "date": "Dec 2016",
+      "granted": "CompTIA",
+      "link": "https://www.certmetrics.com/comptia/public/verification.aspx?code=NZ7N6NSFJGB1QB95",
+      "icon": "https://user-images.githubusercontent.com/5120965/56879758-1fefee80-6a95-11e9-9d2c-9a84a4cee79a.png",
+      "description": "Demonstrates basic Linux administration skill. The participant can work at the Linux command line, perform basic maintenance tasks, install and configure a workstation and connect it to a LAN, or a standalone PC or the Internet."
+    },
+    {
+      "name": "LPIC-1: Certified Linux Administrator",
+      "date": "Dec 2016",
+      "granted": "Linux Professional Institue",
+      "link": "https://www.dropbox.com/s/3al6yto2apakj5h/Cassandra_2.1.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56879441-a73c6280-6a93-11e9-9ac5-1bd34d60cb26.png",
+      "description": "Demonstrates basic Linux administration skill. The participant can work at the Linux command line, perform basic maintenance tasks, install and configure a workstation and connect it to a LAN, or a standalone PC or the Internet."
+    },
+    {
+      "name": "Certified Developer on Apache Cassandra",
+      "date": "Sep 2016",
+      "granted": "Datastax and O'Reilly Media",
+      "link": "https://www.dropbox.com/s/3al6yto2apakj5h/Cassandra_2.1.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56879294-136a9680-6a93-11e9-95ee-b117e6c60c8e.png",
+      "description": "Fundamental Apache Cassandra™ knowledge"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "May 2016",
+      "granted": "Amazon Web Services",
+      "link": "https://www.dropbox.com/s/7e2an9v31r7pbk5/awsSolutionsArchitect_AE.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56879200-89bac900-6a92-11e9-8ef2-3802a8c0e6cb.png",
+      "description": "Validates technical expertise in designing and deploying scalable, highly available, and fault-tolerant systems on the AWS platform"
+    },
+    {
+      "name": "MongoDB Certified Developer, Associate",
+      "date": "Jan 2016",
+      "granted": "MongoDB University",
+      "link": "https://www.dropbox.com/s/jcr9xc09ysisyq7/mongodb.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56878289-42cad480-6a8e-11e9-8702-32a24c49717c.png",
+      "description": "Certifies individuals with knowledge of the fundamentals of designing and building applications using MongoDB."
+    },
+    {
+      "name": "Java SE 6 Programmer Certified Professional (OCPJP)",
+      "date": "Sep 2015",
+      "granted": "Oracle",
+      "link": "https://www.dropbox.com/s/t1lpybt5r4xbmz4/OCJP6.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56878996-b0c4cb00-6a91-11e9-985e-399499cb8ef7.png",
+      "description": "Certifies individuals with knowledge of fundamentals of Java, demonstrating an understanding of Java knowledge and skills"
+    },
+    {
+      "name": "Fundamental Information Technology Engineer Examination (FE)",
+      "date": "Apr 2014",
+      "granted": "JITEC & VITEC",
+      "link": "https://www.dropbox.com/s/vsciklw8obju377/FE.pdf?dl=0",
+      "icon": "https://user-images.githubusercontent.com/5120965/56878593-de107980-6a8f-11e9-9c43-3ac3816a42ce.png",
+      "description": "Japanese IT exam, the knowledge areas that are tested are taken from software engineering, information systems and computer science"
+    }
+  ]
+}
