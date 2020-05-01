@@ -14,12 +14,10 @@
 <script>
 import Intro from '~/components/introduction/Intro.vue'
 import profile from '~/data/profile.json'
-import ForkGithub from '~/components/common/ForkGithub.vue'
 
 export default {
   components: {
-    Intro,
-    ForkGithub
+    Intro
   },
   data: () => ({
     profile

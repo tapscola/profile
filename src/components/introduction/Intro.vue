@@ -28,7 +28,7 @@
                   />
               </ClientOnly>
             </p>
-          <p> Say: info@tapscola.com </p>
+          <p> Email: info@tapscola.com </p>
         </div>
         <div class="col-sm-12 mt-5">
           <intro-social :socials="socials" />
